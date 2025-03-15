@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AniketGhodmare
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React.Js 
+- 🌱 I’m currently Working as a React.Js Developer
 - 📫 How to reach me ghodmareaniket2@gmail.com
 
 <!---
