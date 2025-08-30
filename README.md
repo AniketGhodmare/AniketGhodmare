@@ -19,7 +19,7 @@ I’m a Frontend Developer with **2.7 years of experience** building scalable, p
 ### 🏨 [Online Marketplace for Hospitality Industry](https://partment.co)  
 Scalable booking platform for hotels and resorts. Built intuitive search, booking, and management flows with **React.js, REST APIs, and Tailwind CSS**.  
 
-### 🍕 [3D Pizza Configurator] (https://3d-pizza.netlify.app/)
+### 🍕 [3D Pizza Configurator](https://3d-pizza.netlify.app/)
 An interactive 3D web app where users can design their own pizza with toppings, watch it pack into a box, and even see a drone deliver it home — all in real-time 3D!
   
 
