@@ -19,8 +19,9 @@ I’m a Frontend Developer with **2.7 years of experience** building scalable, p
 ### 🏨 [Online Marketplace for Hospitality Industry](https://partment.co)  
 Scalable booking platform for hotels and resorts. Built intuitive search, booking, and management flows with **React.js, REST APIs, and Tailwind CSS**.  
 
-### 🛋️ 3D Room Customizer (Real Estate Domain)  
-Interactive room customization tool using **React Three Fiber & Three.js**. Allowed real-time tile customization for floors, walls, and counters across different room types.  
+### 🍕 [3D Pizza Configurator] (https://3d-pizza.netlify.app/)
+An interactive 3D web app where users can design their own pizza with toppings, watch it pack into a box, and even see a drone deliver it home — all in real-time 3D!
+  
 
 ### 🏠 [3D Interactive Floor Plan](https://aniket-floorplan.netlify.app/)  
 A property visualization project using **React, Three.js, React Three Fiber, and Drei** that lets users explore floor layouts in **3D detail directly from the browser**.  
