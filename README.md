@@ -2,7 +2,7 @@
 
 🚀 **React.js Developer | Frontend Engineer | 3D Web Enthusiast**  
 
-I’m a Frontend Developer with **2.7 years of experience** building scalable, performant web applications. Skilled in **React.js, Redux Toolkit, JavaScript, and REST APIs**, I specialize in creating **responsive UIs, smooth user experiences, and scalable codebases**. 
+I’m a Frontend Developer with **2.8 years of experience** building scalable, performant web applications. Skilled in **React.js, Redux Toolkit, JavaScript, and REST APIs**, I specialize in creating **responsive UIs, smooth user experiences, and scalable codebases**. 
 
 ## 💻 Tech Stack  
 - **Languages:** JavaScript (ES6+), HTML5, CSS3  
