@@ -1,13 +1,30 @@
-# 👋 Hi, I'm Aniket Ghodmare  
+# 👋 Hi, I'm Aniket Ghodmare
 
-🚀 **React.js Developer | Frontend Engineer | 3D Web Enthusiast**  
+🚀 **SAP ABAP Developer | SAP SD | O2C**
 
-I’m a Frontend Developer with **2.8 years of experience** building scalable, performant web applications. Skilled in **React.js, Redux Toolkit, JavaScript, and REST APIs**, I specialize in creating **responsive UIs, smooth user experiences, and scalable codebases**. 
+I’m an **SAP ABAP Developer with 2.8 years of overall software development experience**, including **2 years of SAP ABAP development** and previous experience as a **React.js Developer**.
 
-## 💻 Tech Stack  
-- **Languages:** JavaScript (ES6+), HTML5, CSS3  
-- **Frameworks & Libraries:** React.js, Redux Toolkit, React Router, Tailwind CSS, Bootstrap, Sass, React Three Fiber, Three.js, Context API  
-- **Tools:** Vite, Git, GitHub, Figma  
-- **Testing:** Jest, React Testing Library  
+I specialize in building **SAP SD/O2C solutions** using ABAP, with hands-on experience in Reports, ALV, BAPIs, BAdIs, SmartForms, and custom developments.
 
-⭐️ *Always open to collaboration on exciting React and 3D web projects!*  
+## 💻 SAP ABAP Tech Stack
+
+- **SAP ABAP:** Reports, ALV, Internal Tables, Open SQL, DDIC
+- **SAP SD/O2C:** Sales Orders, Deliveries, PGI, Billing
+- **Enhancements:** BAdIs, User Exits
+- **Integration:** BAPIs, Function Modules, OData
+- **Forms:** SmartForms
+- **Database:** Open SQL, Joins & Performance Optimization
+- **Tools:** SE38, SE80, SE11, SE18, SE19, SE37, SE71
+
+## 🚀 Featured Projects
+
+- **Customer-Material Restriction** — BAdI-based Sales Order validation
+- **Bulk Sales Order Creation** — CSV upload using `BAPI_SALESORDER_CREATEFROMDAT2`
+- **Sales Order & Delivery Monitor** — ALV-based SD monitoring report
+- **Sales Order Confirmation** — SmartForm-based output
+
+## 🎯 Currently Learning
+
+**ABAP on HANA • OData **
+
+⭐️ *Open to SAP ABAP opportunities and collaboration.*  
