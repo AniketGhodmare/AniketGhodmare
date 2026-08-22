@@ -1,30 +1,39 @@
 # 👋 Hi, I'm Aniket Ghodmare
 
-🚀 **SAP ABAP Developer | SAP SD | O2C**
+🚀 **Aspiring SAP ABAP Developer | SAP SD | O2C | Former React.js Developer**
 
-I’m an **SAP ABAP Developer with 2.8 years of overall software development experience**, including **2 years of SAP ABAP development** and previous experience as a **React.js Developer**.
+I’m transitioning into **SAP ABAP Development** with **2.8 years of professional experience in Frontend Development using React.js**.
 
-I specialize in building **SAP SD/O2C solutions** using ABAP, with hands-on experience in Reports, ALV, BAPIs, BAdIs, SmartForms, and custom developments.
+Currently focused on building practical SAP ABAP solutions and developing strong knowledge of **SAP SD/O2C business processes**.
 
-## 💻 SAP ABAP Tech Stack
+## 💻 SAP ABAP Skills
 
-- **SAP ABAP:** Reports, ALV, Internal Tables, Open SQL, DDIC
+- **ABAP:** Reports, Internal Tables, Open SQL, DDIC
 - **SAP SD/O2C:** Sales Orders, Deliveries, PGI, Billing
 - **Enhancements:** BAdIs, User Exits
 - **Integration:** BAPIs, Function Modules, OData
+- **Reporting:** ALV
 - **Forms:** SmartForms
 - **Database:** Open SQL, Joins & Performance Optimization
-- **Tools:** SE38, SE80, SE11, SE18, SE19, SE37, SE71
 
-## 🚀 Featured Projects
+## 🚀 SAP ABAP Projects
 
 - **Customer-Material Restriction** — BAdI-based Sales Order validation
 - **Bulk Sales Order Creation** — CSV upload using `BAPI_SALESORDER_CREATEFROMDAT2`
-- **Sales Order & Delivery Monitor** — ALV-based SD monitoring report
+- **Sales Order & Delivery Monitor** — ALV-based SD report
 - **Sales Order Confirmation** — SmartForm-based output
+
+## 🌐 Previous Experience
+
+**2.8 Years — Frontend Development**
+
+- React.js
+- JavaScript
+- REST APIs
+- Tailwind CSS
 
 ## 🎯 Currently Learning
 
-**ABAP on HANA • OData **
+**ABAP on HANA • OData**
 
-⭐️ *Open to SAP ABAP opportunities and collaboration.*  
+⭐️ *Actively looking for opportunities to start my career as an SAP ABAP Developer.*
