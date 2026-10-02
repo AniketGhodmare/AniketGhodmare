@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Aniket Ghodmare
 
-🚀 **Aspiring SAP ABAP Developer | SAP SD | O2C | Former React.js Developer**
+🚀 **React.js Developer | Aspiring SAP ABAP Developer | SAP SD | O2C**
 
-I’m transitioning into **SAP ABAP Development** with **2.8 years of professional experience in Frontend Development using React.js**.
+I’m transitioning into **SAP ABAP Development** with **3.8 years of professional experience in Frontend Development using React.js**.
 
 Currently focused on building practical SAP ABAP solutions and developing strong knowledge of **SAP SD/O2C business processes**.
 
@@ -25,7 +25,7 @@ Currently focused on building practical SAP ABAP solutions and developing strong
 
 ## 🌐 Previous Experience
 
-**2.8 Years — Frontend Development**
+**3.8 Years — Frontend Development**
 
 - React.js
 - JavaScript
